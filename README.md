@@ -1,4 +1,4 @@
-# OrionUI_Unity
+# OrionUI Unity Window API
 
 Simple Window API to be used in Unity coded in C#
 
